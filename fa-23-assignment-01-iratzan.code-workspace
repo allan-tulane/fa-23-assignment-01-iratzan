@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "../fa-23-assignment-02-iratzan"
+	},
+	{
+		"name": "SSH FS - cse",
+		"uri": "ssh://cse/home/iratzan"
+	}
+],
+  "settings": {
+    "java.debug.settings.onBuildFailureProceed": true
+  }
+}
